@@ -7,8 +7,8 @@ Refer to this Medium [article](https://medium.com/javascript-scene/higher-order-
 List of katas
 
 - [x] Count the number of JavaScript developers coming from Europe
-- [ ] Greet developers
-- [ ] Is Ruby coming?
+- [x] Greet developers
+- [x] Is Ruby coming?
 - [ ] Find the first Python developer
 - [ ] Can they code in the same language?
 - [ ] Find GitHub admins

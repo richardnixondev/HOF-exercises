@@ -6,7 +6,7 @@ Refer to this Medium [article](https://medium.com/javascript-scene/higher-order-
 
 List of katas
 
-- [ ] Count the number of JavaScript developers coming from Europe
+- [x] Count the number of JavaScript developers coming from Europe
 - [ ] Greet developers
 - [ ] Is Ruby coming?
 - [ ] Find the first Python developer
